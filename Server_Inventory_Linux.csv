@@ -1,0 +1,14 @@
+Requested_By,Environment,Category,CI,Patching_Type,Assignedment_Group,Assigned_To,Change_Coordinator,Short_Description,Description,Planning_Start_date,Planning_End_date,Implemention_Plan,BackoutPlan,ValidationPlan,Technical_Approver,Director_Approver,Sr_Director_Approver,VP_Approver,Product_Approver,Affected_CIs
+Abraham Lincoln,.Devon Samrah,Network,3Com DMI Agent,Normal,CAB Approval,Beth Anglin,.Devon Samrah,Dev_1 |Linux Patching,Dev_1 |Linux Patching,03/02/19 09:00,03/03/19 05:00,PFA,PFA,PFA,.Abraham Lincoln,.Bart Hachey,Armando Kolm,Alene Rabeck,.Abraham Lincoln,fr1ph022138;fr1ph022140;
+Alene Rabeck,.Devon Samrah,Hardware,3Com DMI Agent,Normal,CAB Approval,Beth Anglin,.Devon Samrah,DEV|  2019OraclePatching for ch3dr017253,"App Name:AutoFax/ Alpha/ Ops Reconfig/ TMW/ EIS (Imaging)_x000D_
+Database:DDB1F2N,DDB1F1N,DDB1F0N_x000D_
+Server:ch3dr017253",08/01/19 09:00,08/02/18 05:00,PFA,PFA,PFA,.Bart Hachey,.Abraham Lincoln,.Bart Hachey,Armando Kolm,.Devon Samrah,fr1ph022138;fr1ph022140;
+Armando Kolm,.Devon Samrah,Software,3Com DMI Agent,Normal,CAB Approval,Beth Anglin,.Devon Samrah,Prod_5 | 2019 February HPUX Patching,Prod_5 | 2019 February HPUX Patching,03/03/19 09:00,03/04/19 05:00,PFA,PFA,PFA,.Devon Samrah,.Abraham Lincoln,Alene Rabeck,.Devon Samrah,Armando Kolm,fr1ph022138;fr1ph022140;
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
