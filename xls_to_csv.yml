@@ -2,3 +2,7 @@
 - hosts: localhost
   tasks:
   - shell: xlsx2csv Server_Inventory_Linux.xlsx Server_Inventory_Linux.csv
+  - shell: xlsx2csv Server_Inventory_oracle.xlsx Server_Inventory_oracle.csv
+  - shell: xlsx2csv Server_Inventory_aix.xlsx Server_Inventory_aix.csv
+  - shell: xlsx2csv Server_Inventory_hpux.xlsx Server_Inventory_hpux.csv
+  
