@@ -11,27 +11,4 @@
         src: "./iterate_csv.j2"
         dest: "./Server_Inventory_hosts.yml"
   run_once: true
-  vars:
-    csvfile: "{{ lookup('file', 'Server_Inventory_oracle.csv') }}"
-  tasks:
-    - name: Parse CSV To YAML
-      template:
-        src: "./iterate_csv.j2"
-        dest: "./Server_Inventory_hosts.yml"
-  run_once: true
-  vars:
-     csvfile: "{{ lookup('file', 'Server_Inventory_aix.csv') }}"
-  tasks:
-    - name: Parse CSV To YAML
-      template:
-        src: "./iterate_csv.j2"
-        dest: "./Server_Inventory_hosts.yml"
-  run_once: true
-  vars:
-    csvfile: "{{ lookup('file', 'Server_Inventory_hpux.csv') }}"
-  tasks:
-    - name: Parse CSV To YAML
-      template:
-        src: "./iterate_csv.j2"
-        dest: "./Server_Inventory_hosts.yml"
-  run_once: true
+  
